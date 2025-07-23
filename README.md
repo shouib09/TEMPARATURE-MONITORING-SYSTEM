@@ -15,3 +15,4 @@ In the modern era of digital electronics and embedded systems, environmental mon
 
 OUTPUT :
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e6a544e6-a321-4121-8092-ca427bd39523" />
